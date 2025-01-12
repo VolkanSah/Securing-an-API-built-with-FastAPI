@@ -140,4 +140,4 @@ app.add_middleware(
 - Implement Web Application Firewall (WAF) rules.
 - Consider API gateways like Kong or AWS API Gateway for centralized security.
 
-Hopöy it helps, do mt forget the ⭐
+Hoply it helps, do mt forget the ⭐
