@@ -163,8 +163,6 @@ app.add_middleware(
 
 ## Checklist for Deployment
 
-## Checklist for Deployment
-
 Before you deploy your FastAPI application to production, make sure you've checked the following boxes:
 
 ### 🔐 **Security**
